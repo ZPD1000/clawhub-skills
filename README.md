@@ -81,6 +81,7 @@ clawhub-skills/
 | 📈 效率/学习 | Self-Improving Agent, Auto-Updater |
 | ⏰ 自动化 | Proactive Agent |
 | 🤖 开发 | Agent Browser, Skill Vetter |
+| 🐦 X/Twitter 自动化 | TweetClaw |
 | 🌤️ 生活 | Weather |
 
 ## 📝 更新日志
